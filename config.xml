@@ -1,0 +1,15 @@
+<settings>
+	<host></host>
+	<port>11111</port>
+	<threads>4</threads>
+	<sql_host>127.0.0.1</sql_host>
+	<sql_port>3306</sql_port>
+	<sql_user>user</sql_user>
+	<sql_password>pass</sql_password>
+	<sql_database>ntl_auth_server</sql_database>
+	<sql_type>default</sql_type>
+	<password_hash>md5</password_hash>
+	<password_salt>231rf32df32</password_salt>
+</settings>
+<servers>
+</servers>
